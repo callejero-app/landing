@@ -1049,7 +1049,7 @@ video {
   border-radius: 20px;
   box-shadow: 0px 10px 15px -5px black;
   transition: all 0.5s;
-  height: 20rem;
+  /* height: 20rem; */
 }
 
 .video-callejero:hover {
