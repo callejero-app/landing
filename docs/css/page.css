@@ -1075,3 +1075,16 @@ video {
   width: 100vw;
   background-image: url("../img/people-celebrate.png");
 }
+
+.menu-burguer {
+  position: fixed;
+  z-index: 5;
+  background: white;
+}
+
+@media screen and (max-width: 768px) {
+  .img-hero {
+    width: 11rem;
+    margin: auto;
+  }
+}
